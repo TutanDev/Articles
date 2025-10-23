@@ -1,0 +1,28 @@
+{
+    "name": "TutanDev.Json.Tests",
+    "rootNamespace": "TutanDev.Json.Tests",
+    "references": [
+        "GUID:f6dd39b09a259844a9ac3f230d0153a3",
+        "GUID:27619889b8ba8c24980f49ee34dbb44a",
+        "GUID:0acc523941302664db1f4e527237feb3",
+        "GUID:c0dd0d10738d4ad4a9de57c559d0ca1b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll",
+        "System.Text.Json.dll",
+        "System.Text.Encodings.Web.dll",
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

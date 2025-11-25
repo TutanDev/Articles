@@ -1,0 +1,18 @@
+{
+  "name": "com.tutandev.core",
+  "version": "0.0.1",
+  "displayName": "TutanDev Core",
+  "description": "Core package with fundamental types, extensions and Editor helpers",
+  "unity": "2022.1",
+  "keywords": [
+    "Core",
+    "Editor",
+    "Tool",
+    "Functional"
+  ],
+  "author": {
+    "name": "TutanDev",
+    "email": "andrespino.95@gmail.com",
+    "url": "https://github.com/TutanDev"
+  }
+}

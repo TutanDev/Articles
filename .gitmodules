@@ -1,0 +1,3 @@
+[submodule "Packages/com.tutan.Functional"]
+	path = Packages/com.tutan.Functional
+	url = git@github.com:TutanDev/com.tutan.functional.git

@@ -1,6 +1,6 @@
 {
-    "name": "TutanDev.Core",
-    "rootNamespace": "TutanDev.Core",
+    "name": "UFunctional",
+    "rootNamespace": "UFunctional",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
